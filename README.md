@@ -7,11 +7,11 @@ In only a matter of months, the coronavirus disease of 2019 (COVID-19) has sprea
 
 The purpose of this repository is to provide a hub of open resources dedicated to accelerating COVID-19 research that is maintained and updated by the research community. We have organized these resources into three main categories: 
 
-**Open access**: The availability of research publications that are free to access and, often, re-use.
+*Open access*: The availability of research publications that are free to access and, often, re-use.
 
-**Open data**: The same, but with data.
+*Open data*: The same, but with data.
 
-**Open source**: Initiatives in which broader community participation is allowed via liberal licence terms.
+*Open source*: Initiatives in which broader community participation is allowed via liberal licence terms.
 
 ![Fig_1](https://github.com/OpenSourceSarsCoV2/LivingResourceReview/blob/master/Open_COVID.png)
 
