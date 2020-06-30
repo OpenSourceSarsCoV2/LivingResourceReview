@@ -13,6 +13,8 @@ The purpose of this repository is to provide a hub of open resources dedicated t
 
 **Open source**: Initiatives in which broader community participation is allowed via liberal licence terms.
 
+![Fig_1](https://github.com/OpenSourceSarsCoV2/LivingResourceReview/blob/master/Open_COVID.png)
+
 ### Browsing 
 
 To browse resources, read through the [wiki](https://github.com/OpenSourceSarsCoV2/LivingResourceReview/wiki). Resources are organized by the categories described above and in the paper.
