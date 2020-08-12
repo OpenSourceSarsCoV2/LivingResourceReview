@@ -21,7 +21,7 @@ To browse resources, read through the [wiki](https://github.com/OpenSourceSarsCo
 
 ### Adding Content
 
-Anyone can add content to the wiki (for tips on how to do this, click [here](https://help.github.com/en/github/building-a-strong-community/editing-wiki-content) ). Please try to keep formatting consistent and make sure to add a short description for each item. Discussion about any topic related to the repository may be started by creating an [Issue](https://github.com/OpenSourceSarsCoV2/LivingResourceReview/issues).
+Anyone can add content to the wiki (for tips on how to do this, click [here](https://docs.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages) ). Please try to keep formatting consistent and make sure to add a short description for each item. Discussion about any topic related to the repository may be started by creating an [Issue](https://github.com/OpenSourceSarsCoV2/LivingResourceReview/issues).
 
 ### Authors
 
