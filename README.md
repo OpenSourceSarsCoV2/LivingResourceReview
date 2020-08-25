@@ -1,6 +1,6 @@
 # LivingResourceReview
 
-This repository houses the living review of open resources for drug discovery and development for SARS-CoV-2 as described in our paper. (Submitted to _F1000 Research_; link to full text coming soon.) 
+This repository houses the living review of open resources for drug discovery and development for SARS-CoV-2 as described in [our paper](https://f1000research.com/articles/9-1043/v1) published in F1000 Research.
 
 >**Abstract**
 In only a matter of months, the coronavirus disease of 2019 (COVID-19) has spread around the world. The global impact of the disease has caused significant and repeated calls for quick action towards new medicines and vaccines. In response, researchers have adopted open science methods to begin to combat this disease via global collaborative efforts. We summarise here some of those initiatives, and have created an updateable list to which others may be added. Though open science has previously been shown as an accelerator of biomedical research, the COVID-19 crisis has made openness seem the logical choice. Will openness persist in the discovery of new medicines, after the crisis has receded?
